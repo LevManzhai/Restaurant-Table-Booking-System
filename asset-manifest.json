@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Table-Booking-System/static/css/main.da53f620.css",
+    "main.js": "/Restaurant-Table-Booking-System/static/js/main.3f07cbe6.js",
+    "static/js/453.f59f23b5.chunk.js": "/Restaurant-Table-Booking-System/static/js/453.f59f23b5.chunk.js",
+    "index.html": "/Restaurant-Table-Booking-System/index.html",
+    "main.da53f620.css.map": "/Restaurant-Table-Booking-System/static/css/main.da53f620.css.map",
+    "main.3f07cbe6.js.map": "/Restaurant-Table-Booking-System/static/js/main.3f07cbe6.js.map",
+    "453.f59f23b5.chunk.js.map": "/Restaurant-Table-Booking-System/static/js/453.f59f23b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da53f620.css",
+    "static/js/main.3f07cbe6.js"
+  ]
+}
