@@ -128,13 +128,6 @@ This project demonstrates:
 - Responsive web design
 - Attention to detail
 
-**Perfect for**: WebRise Development portfolio, demonstrating full-stack readiness without requiring backend infrastructure.
-
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
 ## License
 
 MIT License - Free to use for portfolio and learning purposes.
