@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <circle cx="50" cy="50" r="50" fill="#8B6F47"/>
+
+  <!-- Gold border -->
+  <circle cx="50" cy="50" r="45" stroke="#D4AF37" stroke-width="4" fill="none"/>
+
+  <!-- Letter B for Bella Vista -->
+  <text x="50" y="72" font-family="serif" font-size="60" font-weight="bold" fill="#F5F1E8" text-anchor="middle">B</text>
+</svg>
