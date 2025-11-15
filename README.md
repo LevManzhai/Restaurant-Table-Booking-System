@@ -4,7 +4,7 @@ A fully functional demo of a modern restaurant table booking system built with R
 
 **Live Demo**: A complete offline booking experience with no external dependencies.
 
-![Bella Vista](https://levmanzhai.github.io/Restaurant-Table-Booking-System/)
+[Bella Vista](https://levmanzhai.github.io/Restaurant-Table-Booking-System/)
 
 ## Features
 
